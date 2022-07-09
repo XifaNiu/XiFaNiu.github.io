@@ -2556,3 +2556,17 @@ body.DarkMode #stars3:after {
     line-height: 48px;
     font-size: 1.8rem;
 }
+/* 滚动条 */
+::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+    background-image: -webkit-linear-gradient(45deg,rgba(57, 180, 61) 25%,transparent 25%,transparent 50%,rgba(57, 180, 61) 50%,rgba(57, 180, 61) 75%,transparent 75%,transparent);
+    border-radius: 3em;
+}
+::-webkit-scrollbar-track {
+    background-color: #cdcdcd;
+    border-radius: 3em;
+}
+::-webkit-scrollbar {
+    width: 8px;
+    height: 15px;
+}
