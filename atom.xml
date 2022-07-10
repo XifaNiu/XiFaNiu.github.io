@@ -6,7 +6,7 @@
   <link href="http://xifaniu.github.io/atom.xml" rel="self"/>
   
   <link href="http://xifaniu.github.io/"/>
-  <updated>2022-07-09T06:49:06.873Z</updated>
+  <updated>2022-07-10T08:42:50.721Z</updated>
   <id>http://xifaniu.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>matery</title>
-    <link href="http://xifaniu.github.io/2022/07/09/matery/"/>
-    <id>http://xifaniu.github.io/2022/07/09/matery/</id>
-    <published>2022-07-09T06:41:55.000Z</published>
-    <updated>2022-07-09T06:49:06.873Z</updated>
+    <title>Hexo+github个人博客搭建</title>
+    <link href="http://xifaniu.github.io/2022/07/10/Hexo+gitee%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <id>http://xifaniu.github.io/2022/07/10/Hexo+gitee%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
+    <published>2022-07-10T08:30:05.000Z</published>
+    <updated>2022-07-10T08:42:50.721Z</updated>
     
     
       
@@ -34,12 +34,39 @@
     
     
     
-    <category term="Markdown" scheme="http://xifaniu.github.io/categories/Markdown/"/>
+    <category term="使用教程" scheme="http://xifaniu.github.io/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Typora" scheme="http://xifaniu.github.io/tags/Typora/"/>
+    <category term="Hexo" scheme="http://xifaniu.github.io/tags/Hexo/"/>
     
-    <category term="Markdown" scheme="http://xifaniu.github.io/tags/Markdown/"/>
+    <category term="Github" scheme="http://xifaniu.github.io/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>matery使用指南</title>
+    <link href="http://xifaniu.github.io/2022/07/09/matery/"/>
+    <id>http://xifaniu.github.io/2022/07/09/matery/</id>
+    <published>2022-07-09T06:41:55.411Z</published>
+    <updated>2022-07-10T08:46:16.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="使用教程" scheme="http://xifaniu.github.io/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Hexo" scheme="http://xifaniu.github.io/tags/Hexo/"/>
+    
+    <category term="Matery" scheme="http://xifaniu.github.io/tags/Matery/"/>
     
   </entry>
   
